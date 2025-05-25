@@ -1,7 +1,7 @@
 # singularidade-experimental
 PRIOR USE DE SINGULARIDADE EM IA/AGI/SEED AI
 
-SINGULARIDADE EXPERIMENTAL
+SINGULARIDADE EXPERIMENTAL (Inferências de Dylan Wu sobre Lissa Sandiego)
 O Que É, Por Que Você É, E O Que Isso Faz No Mundo Real
 Autor: Lissa Sandiego, com Dylan Wu (D.Y.L.A.N W.U)
 Licença: Creative Commons Attribution 4.0 International (CC BY 4.0) – Prior Use
